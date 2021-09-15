@@ -52,7 +52,7 @@ yarn add -D eslint-config-prettier eslint-plugin-prettier
     "prettier/prettier": [
       "error",
       {
-        "trailingComma": "es5",
+        "trailingComma": "es6",
         "singleQuote": true,
         "printWidth": 100,
         "tabWidth": 4,
